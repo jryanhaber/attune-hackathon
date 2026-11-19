@@ -13,7 +13,7 @@ Our entry for The Big Hack Game, from the team Aligned AI At Scale.
 - **Pitch deck (20 slides):** [Attune-pitch-deck.pdf](Attune-pitch-deck.pdf)
 - **Attune for iPhone, screen by screen (20 pages):** [Attune-for-iPhone-screen-by-screen.pdf](Attune-for-iPhone-screen-by-screen.pdf)
 - **Attune for Mac, screen by screen (19 pages):** [Attune-for-Mac-screen-by-screen.pdf](Attune-for-Mac-screen-by-screen.pdf)
-- **"Start here" doc:** https://docs.google.com/document/d/1N9kEuanAucuEug2nsN2o5Y0IQUKix0Dr7L0ee5_YW2U/edit
+- **"Start here" doc:** https://docs.google.com/document/d/19y05PblYwzHMVzg4_OxxLrYgYml-IPzO-7qWoKyvPpc/edit
 - **Everything above in one shared folder:** https://drive.google.com/drive/folders/14R0lid5lHQTYw0H1JCgmG6z4A2fdGo9d
 
 ## About Attune
